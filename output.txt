@@ -1,0 +1,1 @@
+We will fetch the data from input.txt here:
