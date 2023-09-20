@@ -1,0 +1,6 @@
+Data of students: 
+Sneha: 2001
+Aman: 2000
+Rishabh: 1997
+Prafful: 2002
+Deepu: 2001
